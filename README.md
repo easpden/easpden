@@ -1,4 +1,4 @@
-<h1 text-align="center">Hello world! :wave:</h1>
+<h1 style="text-align: center">Hello world! :wave:</h1>
 
 
 ## :information_desk_person: About me
