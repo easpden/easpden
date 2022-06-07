@@ -1,4 +1,5 @@
-### Hello world! 👋
+<h1 text-align="center">Hello world! :wave:</h1>
+
 
 ## :information_desk_person: About me
 I'm Chief Architect at PixelMax.
@@ -6,6 +7,7 @@ I'm Chief Architect at PixelMax.
 - :hammer: I’m currently working on migrating cloud gaming technologies to a hybrid multicloud environment
 - :seedling: I’m currently learning Kubernetes
 - :mailbox_closed: How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/eddieaspden)
+
 
 ## :computer: Tech Stack
 ### What I currently work with
