@@ -1,13 +1,13 @@
 ### Hello world! 👋
 
-## About me
+## :information_desk_person: About me
 I'm Chief Architect at PixelMax.
 
-- 🔭 I’m currently working on migrating cloud gaming technologies to a hybrid multicloud environment
-- 🌱 I’m currently learning Kubernetes
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](linkedin.com/in/eddieaspden)
+- :hammer: I’m currently working on migrating cloud gaming technologies to a hybrid multicloud environment
+- :seedling: I’m currently learning Kubernetes
+- :mailbox_closed: How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/eddieaspden)
 
-## Tech Stack
+## :computer: Tech Stack
 ### What I currently work with
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&labelColor=000000&color=3776AB)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&labelColor=000000&color=F7DF1E)
